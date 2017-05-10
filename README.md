@@ -35,7 +35,7 @@ We used the following components to build the mechanism:
 2. An A4 sized wooden base
 3. Revolute joints
 4. Rivets
-The following image show our final model:
+The following image shows our final model:
 
 ![Final Model](https://github.com/Rajiv2605/Peaucellier-Mechanism/blob/master/actual_2.png)
 

@@ -55,6 +55,10 @@ You can check our mechanism videos in the link provided below:
 1. [CAD video](https://www.dropbox.com/s/4ied9zyk1s377tq/CAD%20video.mp4?dl=0)
 2. [Actual mechanism video](https://www.dropbox.com/s/h035k6ejh6h1axk/Final%20mechanism%20video.mp4?dl=0)
 
+**NOTE:** If the above links don't open, please follow the below procedure:
+1. Click on the following links: [CAD](https://github.com/Rajiv2605/Peaucellier-Mechanism/blob/master/CAD%20video.mp4), [ACTUAL MECHANISM VIDEO](https://github.com/Rajiv2605/Peaucellier-Mechanism/blob/master/Final%20mechanism%20video.mp4).
+2. Click on **View Raw** which downloads the video.
+
 # <a name="6"></a>References:
 First of all, we would like to thank all the Faculty and Staff who played a vital role in mentoring us throughout the project without whom the project would not have been possible. Also, we used the following resources:
 1. [Position analysis of Peaucellier Mechanism](http://me.lsu.edu/~ram/TEACHING/kinematics/Peaucellier.pdf)

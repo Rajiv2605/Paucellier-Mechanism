@@ -51,6 +51,10 @@ The following image shows our final model:
 
 ![Final Model](https://github.com/Rajiv2605/Peaucellier-Mechanism/blob/master/actual_2.png)
 
+You can check our mechanism videos in the link provided below and click "View Raw":
+1. [CAD video](https://github.com/Rajiv2605/Peaucellier-Mechanism/blob/master/CAD%20video.mp4)
+2. [Actual mechanism video](https://github.com/Rajiv2605/Peaucellier-Mechanism/blob/master/Final%20mechanism%20video.mp4)
+
 # <a name="6"></a>References:
 First of all, we would like to thank all the Faculty and Staff who played a vital role in mentoring us throughout the project without whom the project would not have been possible. Also, we used the following resources:
 1. [Position analysis of Peaucellier Mechanism](http://me.lsu.edu/~ram/TEACHING/kinematics/Peaucellier.pdf)
